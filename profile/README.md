@@ -1,6 +1,6 @@
 # The GZCTF Affiliated Projects
 
-This is a list of projects that are affiliated with the GZCTF. If you have a project that you would like to add to this list, please contact us.
+This is a list of projects that are affiliated with the GZCTF.
 
 ## What is GZCTF?
 
